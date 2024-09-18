@@ -1,0 +1,19 @@
+/* style.css */
+.odd {
+    background-color: #ff450060;
+    font-family: Verdana, Arial, sans-serif;
+}
+
+#two {
+    font-size: 36px;
+    color: cornflowerblue;
+}
+
+.mid-font {
+    font-size: 24px;
+}
+
+#four {
+    background-color: #90ee9060;
+    font-weight: bold;
+}
